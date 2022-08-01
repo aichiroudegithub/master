@@ -1,2 +1,1 @@
-FROM minio/minio:RELEASE.2018-02-09T22-40-05Z
-MAINTAINER zz<zhongzheng0813@163.com>
+FROM gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
